@@ -1,5 +1,7 @@
 # 🔧 Scrap Yard Business
 
+> *Want more scripts like this join https://discord.gg/Z75wwvsDgs*
+
 > *A fully interactive scrapyard system for FiveM servers.  
 > Players can scrap cars anywhere in the world and sell collected materials to a Scrap Yard NPC.*
 
